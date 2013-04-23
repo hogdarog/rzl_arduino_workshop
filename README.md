@@ -2,7 +2,10 @@ Arduino Workshop
 ====================
 
 Hier findet sich eine kurze Anleitung für den Arduino Workshop des [RaumZeitLabors](www.raumzeitlabor.de).
+
 Dies ist nicht als eigenständiges Tutorial gedacht, sondern vielmehr als Ergänzung sowie Link- & Dateisammlung zum Workshop.
+
+![Arduino Uno board (http://commons.wikimedia.org/wiki/File:Arduino-uno-perspective.jpg)](https://raw.github.com/hogdarog/rzl_arduino_workshop/master/images/arduino_uno.jpg "Arduino Uno board (http://commons.wikimedia.org/wiki/File:Arduino-uno-perspective.jpg)" )
 
 Software
 --------
@@ -19,4 +22,8 @@ Eine Beschreibung der Software findet sich unter
 Viele Tutorials sowie weitergehende Erklärungen finden sich bei [http://www.arduino-tutorial.de/]()
 
 
+Weiterführende Links
+--------------------
 
+- [Arduino Programmier Handbuch](http://www.freeduino.de/de/books/arduino-programmier-handbuch)
+- [Willies World](http://klaas.homeip.net/ArduinoWiki/doku.php?id=arduino:einleitung)
