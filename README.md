@@ -5,7 +5,17 @@ Hier findet sich eine kurze Anleitung für den Arduino Workshop des [RaumZeitLabo
 
 Dies ist nicht als eigenständiges Tutorial gedacht, sondern vielmehr als Ergänzung sowie Link- & Dateisammlung zum Workshop.
 
-![Arduino Uno board (http://commons.wikimedia.org/wiki/File:Arduino-uno-perspective.jpg)](https://raw.github.com/hogdarog/rzl_arduino_workshop/master/doc/images/arduino_uno.jpg "Arduino Uno board (http://commons.wikimedia.org/wiki/File:Arduino-uno-perspective.jpg)" )
+
+Ziel des Workshops
+------------------
+
+Wir werden diesen Bausatz 
+
+![Arduino Uno Bausatz ](doc/images/arduino-compatible11.jpg)
+
+zusammenloeten zu: 
+
+![Fertiger Arduino Uno ](doc/images/arduino-compatible31.jpg)
 
 Software
 --------
@@ -24,12 +34,12 @@ Viele Tutorials sowie weitergehende Erklärungen finden sich bei [http://www.ardu
 
 Programmierung
 --------------
-Der Arduino wird mit per USB Kabel mit Strom versorgt und von der Entwicklungsumgebung programmiert
+Der Arduino wird mit per USB/Seriell-Adapter mit Strom versorgt und von der Entwicklungsumgebung programmiert.
 
 Erster Test
 -----------
 
-Schliesse einfach den Arduino per USB Kabel an Deinen Rechner an, starte die
+Schliesse den Arduino via USB/Seriell-Adapter an Deinen Rechner an, starte die
 Arduino Entwicklungsumgebung und wähle aus dem Datei-Menü "Beispiele"
 (Examples) "01 Basics" das Beispiel "Blink" aus. Nachdem Du es per "Upload" auf
 den Arduino ueberspielt hast, sollte die kleine LED auf Deinem Arduino im
