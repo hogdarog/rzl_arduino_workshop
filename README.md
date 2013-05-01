@@ -1,7 +1,7 @@
 Arduino Workshop
 ====================
 
-Hier findet sich eine kurze Anleitung für den Arduino Workshop des [RaumZeitLabors](www.raumzeitlabor.de).
+Hier findet sich eine kurze Anleitung für den Arduino Workshop des [RaumZeitLabors](http://www.raumzeitlabor.de).
 
 Dies ist nicht als eigenständiges Tutorial gedacht, sondern vielmehr als Ergänzung sowie Link- & Dateisammlung zum Workshop.
 
