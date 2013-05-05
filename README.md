@@ -1,7 +1,7 @@
 Arduino Workshop
 ====================
 
-Hier findet sich eine kurze Anleitung für den Arduino Workshop des [RaumZeitLabors](http://www.raumzeitlabor.de).
+Hier findet sich eine kurze Anleitung für den [Arduino](http://www.arduino.cc) Workshop des [RaumZeitLabors](http://www.raumzeitlabor.de).
 
 Dies ist nicht als eigenständiges Tutorial gedacht, sondern vielmehr als Ergänzung sowie Link- & Dateisammlung zum Workshop.
 
@@ -16,6 +16,9 @@ Wir werden diesen Bausatz
 zusammenloeten zu: 
 
 ![Fertiger Arduino Uno ](doc/images/arduino-compatible31.jpg)
+
+
+siehe (englische) [Bauanleitung](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SFE03-0010-KitCard-ArduinoPTH-ReadersSpreads.pdf)
 
 Software
 --------
@@ -44,6 +47,16 @@ Arduino Entwicklungsumgebung und wähle aus dem Datei-Menü "Beispiele"
 (Examples) "01 Basics" das Beispiel "Blink" aus. Nachdem Du es per "Upload" auf
 den Arduino ueberspielt hast, sollte die kleine LED auf Deinem Arduino im
 Sekundentakt blinken...
+
+Beispielprogramme
+-----------------
+
+* [LED Test](Beispielprogramme/01_LED/LED.html)
+* blinkende LED
+* Mini Photocell 
+* Beeper/Buzzer 
+* Potentiometer
+* Vibration Switch Sensor 
 
 
 Weiterführende Links
