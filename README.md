@@ -51,8 +51,8 @@ Sekundentakt blinken...
 Beispielprogramme
 -----------------
 
-* [LED Test](./BeispielProgramme/01_LED/LED.md)
-* [blinkende LED](./BeispielProgramme/02_LED_blink/LED_blink.md)
+* [LED Test](./BeispielProgramme/LED/LED.md)
+* [blinkende LED](./BeispielProgramme/LED_blink/LED_blink.md)
 * Mini Photocell 
 * Beeper/Buzzer 
 * Potentiometer
