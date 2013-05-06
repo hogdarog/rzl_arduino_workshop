@@ -18,7 +18,7 @@ zusammenloeten zu:
 ![Fertiger Arduino Uno ](doc/images/arduino-compatible31.jpg)
 
 
-siehe (englische) [Bauanleitung](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SFE03-0010-KitCard-ArduinoPTH-ReadersSpreads.pdf)
+Details hierzu finden sich in der (englischen) [Bauanleitung](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SFE03-0010-KitCard-ArduinoPTH-ReadersSpreads.pdf)
 
 Software
 --------
@@ -53,7 +53,7 @@ Beispielprogramme
 
 * [LED Test](./BeispielProgramme/LED/LED.md)
 * [blinkende LED](./BeispielProgramme/LED_blink/LED_blink.md)
-* Mini Photocell 
+* [Lichtsensor](./BeispielProgramme/Lichtsensor/Lichtsensor.md)
 * Beeper/Buzzer 
 * Potentiometer
 * Vibration Switch Sensor 
