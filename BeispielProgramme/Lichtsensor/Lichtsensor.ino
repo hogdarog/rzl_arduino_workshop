@@ -1,10 +1,10 @@
 /*
   Regle die Helligkeit einer LED mit einem Lichtsensor.
-  Je dunkler der Lichtsensor, desto heller die LED.
-*/
+ Je dunkler der Lichtsensor, desto heller die LED.
+ */
 
 // die LED ist an diesen Pin angeschlossen
-int led = A1;
+int led = 10;
 
 // der Lichtsensor ist an diesen Pin angeschlossen
 int lichtsensor = A3;
@@ -21,9 +21,10 @@ void loop() {
   // Lese die Helligkeit vom Lichtsensor ein
   byte Helligkeit = analogRead(lichtsensor);
 
-  // Stelle sicher, dass der Wert zwischen 0 und 255 liegt
-  Helligkeit = map(Helligkeit, 0, 1024, 0, 255);
+  // Kehre den Wert des Sensors um
+  Helligkeit = map(Helligkeit, 0, 255, 255, 0);
 
-  digitalWrite(led, Helligkeit);
-  delay(100);
+  analogWrite(led, Helligkeit);
+  delay(10);
 }
+

@@ -54,7 +54,7 @@ Beispielprogramme
 * [LED Test](./BeispielProgramme/LED/LED.md)
 * [blinkende LED](./BeispielProgramme/LED_blink/LED_blink.md)
 * [Lichtsensor](./BeispielProgramme/Lichtsensor/Lichtsensor.md)
-* Beeper/Buzzer 
+* [Buzzer](./BeispielProgramme/Buzzer/Buzzer.md)
 * Potentiometer
 * Vibration Switch Sensor 
 
