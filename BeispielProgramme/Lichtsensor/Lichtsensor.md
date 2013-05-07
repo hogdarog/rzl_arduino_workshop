@@ -7,6 +7,8 @@ Zusätzlich verbinden wir einen Pin (Orientierung egal) des Photowiderstandes (p
 
 ![Fritzing schema](Lichtsensor.png)
 
+Die LED sollte um so heller leuchten, je weniger Licht vom Sensor erfasst wird.
+
 Der Beispielcode findet sich in der Datei [Lichtsensor.ino](Lichtsensor.ino).
 
 ```c++
