@@ -15,7 +15,7 @@ Der Beispielcode findet sich in der Datei [Buzzer.ino](Buzzer.ino).
 // der Buzzer ist an diesen Pin angeschlossen
 int buzzer = A1;
 
-// initalisiere den LED Pin als Output, den Lichtsensor Pin als Input
+// initalisiere den Pin als Output
 void setup() {
   pinMode(buzzer, OUTPUT);
 }
