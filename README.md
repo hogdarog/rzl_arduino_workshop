@@ -32,8 +32,8 @@ Es gibt sie für
 [Linux](http://www.arduino.cc/playground/Learning/Linux)
 
 Eine Beschreibung der Software findet sich unter
-[http://www.arduino-tutorial.de/2010/06/arduino-software/]() (deutsch) bzw.
-[http://arduino.cc/en/Guide/Environment]() (englisch)
+[http://www.arduino-tutorial.de/2010/06/arduino-software/](http://www.arduino-tutorial.de/2010/06/arduino-software/) (deutsch) bzw.
+[http://arduino.cc/en/Guide/Environment](http://arduino.cc/en/Guide/Environment) (englisch)
 
 Viele Tutorials sowie weitergehende Erklärungen finden sich bei [http://www.arduino-tutorial.de/]()
 
