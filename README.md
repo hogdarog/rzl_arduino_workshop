@@ -20,7 +20,7 @@ zusammenloeten zu:
 
 Details hierzu finden sich in der (englischen) [Bauanleitung](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SFE03-0010-KitCard-ArduinoPTH-ReadersSpreads.pdf)
 
-Eine sehr gute Anleitung zum Löten findet sich im [RZL Wiki](https://wiki.raumzeitlabor.de/images/b/bf/L%C3%B6ten_lernen.pdf).
+Eine sehr gute Anleitung zum Löten findet sich im [RZL Wiki](https://wiki.raumzeitlabor.de/wiki/L%C3%B6ten_lernen) oder als [PDF](https://wiki.raumzeitlabor.de/images/b/bf/L%C3%B6ten_lernen.pdf).
 
 Software
 --------
@@ -40,6 +40,11 @@ Viele Tutorials sowie weitergehende Erklärungen finden sich bei [http://www.ardu
 Programmierung
 --------------
 Der Arduino wird mit per USB/Seriell-Adapter mit Strom versorgt und von der Entwicklungsumgebung programmiert.
+Eventuell wird für den Adapter noch ein Treiber benötigt, für den darin verbauten **PL2303** Chip. 
+Bei [Prolific](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41) finden sich Treiber für Windows und MacOSX.
+
+*Achtung*: Da die USB/Seriell-Adapter keine DTR/Reset Leitung haben, muss der Arduino manuell resetted werden, wenn des Programm fertig compiliert ist und übertragen wird.
+Der genaue Zeitpunkt hängt vom jeweiligen Rechner ab und muss empirisch ermittelt werden.
 
 Erster Test
 -----------
@@ -47,8 +52,10 @@ Erster Test
 Schliesse den Arduino via USB/Seriell-Adapter an Deinen Rechner an, starte die
 Arduino Entwicklungsumgebung und wähle aus dem Datei-Menü "Beispiele"
 (Examples) "01 Basics" das Beispiel "Blink" aus. Nachdem Du es per "Upload" auf
-den Arduino ueberspielt hast, sollte die kleine LED auf Deinem Arduino im
+den Arduino ueberspielt hast, sollte die grüne LED auf Deinem Arduino im
 Sekundentakt blinken...
+
+*Achtung*: Das Timing
 
 Beispielprogramme
 -----------------
