@@ -43,7 +43,7 @@ Der Arduino wird mit per USB/Seriell-Adapter mit Strom versorgt und von der Entw
 Eventuell wird für den Adapter noch ein Treiber benötigt, für den darin verbauten **PL2303** Chip. 
 Bei [Prolific](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41) finden sich Treiber für Windows und MacOSX.
 
-*Achtung*: Da die USB/Seriell-Adapter keine DTR/Reset Leitung haben, muss der Arduino manuell resetted werden, wenn des Programm fertig compiliert ist und übertragen wird.
+**Achtung**: Da die USB/Seriell-Adapter keine DTR/Reset Leitung haben, muss der Arduino manuell resetted werden, wenn des Programm fertig compiliert ist und übertragen wird.
 Der genaue Zeitpunkt hängt vom jeweiligen Rechner ab und muss empirisch ermittelt werden.
 
 Erster Test
@@ -55,7 +55,6 @@ Arduino Entwicklungsumgebung und wähle aus dem Datei-Menü "Beispiele"
 den Arduino ueberspielt hast, sollte die grüne LED auf Deinem Arduino im
 Sekundentakt blinken...
 
-*Achtung*: Das Timing
 
 Beispielprogramme
 -----------------
