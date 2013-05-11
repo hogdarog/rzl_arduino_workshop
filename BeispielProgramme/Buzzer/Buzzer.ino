@@ -1,5 +1,9 @@
 /*
   Generiere Laerm mit einem Piezo-Buzzer
+
+  hog & muzy
+  http://www.raumzeitlabor.de
+  License: CC-BY-SA 3.0
  */
 
 // der Buzzer ist an diesen Pin angeschlossen

@@ -20,6 +20,8 @@ zusammenloeten zu:
 
 Details hierzu finden sich in der (englischen) [Bauanleitung](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Kits/SFE03-0010-KitCard-ArduinoPTH-ReadersSpreads.pdf)
 
+Eine sehr gute Anleitung zum Löten findet sich im [RZL Wiki](https://wiki.raumzeitlabor.de/images/b/bf/L%C3%B6ten_lernen.pdf).
+
 Software
 --------
 
@@ -55,8 +57,7 @@ Beispielprogramme
 * [blinkende LED](./BeispielProgramme/LED_blink/LED_blink.md)
 * [Lichtsensor](./BeispielProgramme/Lichtsensor/Lichtsensor.md)
 * [Buzzer](./BeispielProgramme/Buzzer/Buzzer.md)
-* Potentiometer
-* Vibration Switch Sensor 
+* [Vibrationssensor](./BeispielProgramme/Vibrationssensor/Vibrationssensor.md)
 
 
 Weiterführende Links

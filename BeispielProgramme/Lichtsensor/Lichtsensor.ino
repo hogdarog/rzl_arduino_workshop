@@ -1,6 +1,10 @@
 /*
   Regle die Helligkeit einer LED mit einem Lichtsensor.
- Je dunkler der Lichtsensor, desto heller die LED.
+  Je dunkler der Lichtsensor, desto heller die LED.
+
+  hog & muzy
+  http://www.raumzeitlabor.de
+  License: CC-BY-SA 3.0
  */
 
 // die LED ist an diesen Pin angeschlossen

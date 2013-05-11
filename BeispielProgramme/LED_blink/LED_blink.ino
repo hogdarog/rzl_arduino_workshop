@@ -1,5 +1,9 @@
 /*
-      Lasse eine LED im sekundentakt blinken.
+  Lasse eine LED im sekundentakt blinken.
+
+  hog & muzy
+  http://www.raumzeitlabor.de
+  License: CC-BY-SA 3.0
  */
 
 // die LED ist an diesem Pin angeschlossen

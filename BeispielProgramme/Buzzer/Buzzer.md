@@ -1,7 +1,7 @@
 Beispiel Buzzer
 ======================
 
-Wir verbinden den *+*Pol des Piezo-Buzzers mit Pin 1 und den anderen mit Masse (GND).
+Wir verbinden den *+*Pol des Piezo-Buzzers mit Pin A1 und den anderen mit Masse (GND).
 
 ![Fritzing schema](Buzzer.png)
 
