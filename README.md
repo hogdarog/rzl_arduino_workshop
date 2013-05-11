@@ -66,3 +66,5 @@ Weiterführende Links
 - [Arduino Programmier Handbuch](http://www.freeduino.de/de/books/arduino-programmier-handbuch)
 - [Willies World](http://klaas.homeip.net/ArduinoWiki/doku.php?id=arduino:einleitung)
 - [Arduino-Tutorial](http://www.arduino-tutorial.de/)
+
+- [Hall Sensor 3144 datasheet](http://www.sparkfun.com/datasheets/Components/General/Hall-US1881EUA.pdf)
