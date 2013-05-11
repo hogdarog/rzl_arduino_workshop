@@ -1,7 +1,7 @@
 Blinkende LED
 =============
 
-Wir schliessen einen 100 Ohm Widerstand zwischen einem analogen Pin des Arduino (hier: A1) und dem langen Bein einer LED. 
+Wir schliessen einen 220 Ohm Widerstand zwischen einem analogen Pin des Arduino (hier: A1) und dem langen Bein einer LED. 
 Das kurze Bein der LED verbinden wir mit GND. 
 
 ![Fritzing schema](LED_blink.png)

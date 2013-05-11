@@ -3,7 +3,7 @@ Beispiel Vibrationssensor
 
 Wir verbinden eine LED mit analog Pin A1 und schliessen
 den lÃ¤ngeren Pin des Vibrationssensors an 5V, den Kurzen an analog Pin A0.
-Die LED sollte kurz leuchten, wann immer der Vibrationssensor geschuettelt wird.
+Die LED sollte kurz leuchten, wann immer der Vibrationssensor geschüttelt wird.
 
 ![Fritzing schema](Vibrationssensor.png)
 

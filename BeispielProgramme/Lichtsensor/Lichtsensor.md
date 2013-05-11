@@ -1,7 +1,7 @@
 Beispiel Lichtsensor
 ======================
 
-Wir schliessen einen 100 Ohm Widerstand zwischen einem digitalen Pin des Arduino (hier: 10) und dem langen Bein einer LED. 
+Wir schliessen einen 220 Ohm Widerstand zwischen einem digitalen Pin des Arduino (hier: 10) und dem langen Bein einer LED. 
 Das kurze Bein der LED verbinden wir mit Masse (GND). 
 Zusätzlich verbinden wir einen Pin (Orientierung egal) des Photowiderstandes (photocell) mit 5V, den anderen Pin sowohl mit A3 als auch über einem 10k Widerstand mit Masse (GND) 
 
